@@ -1,0 +1,15 @@
+{
+  "name": "azuremictesting",
+  "version": "1.0.0",
+  "description": "testovani azuremic bota",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rev0lt_",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongodb": "^4.1.3"
+  }
+}
