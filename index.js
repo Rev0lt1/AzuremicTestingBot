@@ -400,4 +400,4 @@ client.on('messageReactionAdd', async (reaction, user, message) => {
 
 
 
-client.login('ODcyMjE2MTE1MTU2MjQ2NjE4.YQmojg.w5wggj0xF2zX6xU9JiA1k-ypXFQ');
+client.login('TOKEN');
